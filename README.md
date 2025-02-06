@@ -59,7 +59,7 @@ ECプラットフォームにおいて、商品詳細ページのデザインは
     ┣ 📜 data.js       # 商品データのシミュレーション、パラメータ変更をサポート
     ┣ 📜 index.js      # データのレンダリング、インタラクションロジック（画像拡大、価格更新など）を処理
  ┣ 📜 index.html       # ページの基本構造
-
+```
 ## 📬 連絡先
 - 🔗 GitHub: https://github.com/zqh0317?tab=repositories
 - 📧 Email: zhengqihui0317@gmail.com
@@ -128,7 +128,7 @@ I independently completed the requirement analysis, UI design, and front-end dev
     ┣ 📜 data.js       # Simulates product data, supports parameter changes
     ┣ 📜 index.js      # Renders data, handles interaction logic (image zoom, price updates, etc.)
  ┣ 📜 index.html       # Basic page structure  
-
+```
 
 
 # 中文版项目简介
