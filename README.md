@@ -138,7 +138,7 @@ I independently completed the requirement analysis, UI design, and front-end dev
 这个项目是我独立开发的电商商品详情页面，用丰富的功能和样式来展现商品。
 
 ## 🎬 线上demo
-👉 【点击这里体验】http:product-page-for-ec.vercel.app
+👉 【点击这里体验】http://product-page-for-ec.vercel.app
 
 ## 📌 项目背景 & 目标
 在电商平台上，商品详情页面的设计直接影响用户的购买决策。清晰的商品展示、流畅的交互体验以及便捷的价格对比功能，能有效减少跳出率，提高转化率。  
