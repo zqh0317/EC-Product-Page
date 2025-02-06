@@ -45,7 +45,7 @@ ECプラットフォームにおいて、商品詳細ページのデザインは
 - 📈 **価格の動的更新**：ユーザーが異なるパラメータを選択すると、価格エリアが**リロードなしで自動更新**され、ショッピングのスムーズさが向上
 
 ## 🎬 オンラインデモ
-👉 【ここをクリックして体験】（product-page-for-ec.vercel.app）
+👉 【ここをクリックして体験】product-page-for-ec.vercel.app
 
 ## 📂 コード構成
 ```bash
@@ -114,7 +114,7 @@ I independently completed the requirement analysis, UI design, and front-end dev
 - 📈 **Dynamic Price Updates**: When users select different parameters, the price area **automatically updates without refresh**, enhancing shopping smoothness
 
 ## 🎬 Online Demo
-👉 【Click here to experience】（product-page-for-ec.vercel.app）
+👉 【Click here to experience】product-page-for-ec.vercel.app
 
 ## 📂 Code Structure
 ```bash
@@ -178,7 +178,7 @@ I independently completed the requirement analysis, UI design, and front-end dev
 - 📈 **价格动态更新**：用户选择不同参数时，价格区域**无刷新自动更新**，提升购物流畅度       
 
 ## 🎬 线上demo
-👉 【点击这里体验】（product-page-for-ec.vercel.app）
+👉 【点击这里体验】product-page-for-ec.vercel.app
 
 ## 📂 代码结构
 ```bash
