@@ -1,4 +1,4 @@
-# 日本語の紹介 [English version follows after Japanese] 【中文版请下拉至最后】
+# 日本語の紹介 [English version follows after Japanese] 【中文版请下拉至最后】  
 # 🛍️ EC商品の詳細ページ（js & html & css & less）
 
 👋 こんにちは、私は郑绮慧（ジン・チーヒ）と申します。フロントエンド開発者で、効率的で保守可能なフロントエンドアプリケーションの構築を得意としています。  
