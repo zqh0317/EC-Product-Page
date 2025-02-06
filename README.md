@@ -4,6 +4,9 @@
 👋 こんにちは、私は郑绮慧（ジン・チーヒ）と申します。フロントエンド開発者で、効率的で保守可能なフロントエンドアプリケーションの構築を得意としています。  
 このプロジェクトは、私が独自に開発したEC商品の詳細ページで、豊富な機能とスタイルで商品を表示しています。
 
+## 🎬 オンラインデモ
+👉 【ここをクリックして体験】http://product-page-for-ec.vercel.app
+
 ## 📌 プロジェクトの背景と目標
 ECプラットフォームにおいて、商品詳細ページのデザインはユーザーの購入決定に直接影響を与えます。商品の明確な表示、スムーズなインタラクション体験、および便利な価格比較機能は、直帰率を減少させ、転換率を向上させるのに役立ちます。
 
@@ -44,9 +47,6 @@ ECプラットフォームにおいて、商品詳細ページのデザインは
 - 🔍 **高画質な画像の拡大**：商品画像にマウスをホバーすると、右側に拡大エリアが自動で表示され、**スムーズな移動をサポートし、より自然な閲覧体験を提供**  
 - 📈 **価格の動的更新**：ユーザーが異なるパラメータを選択すると、価格エリアが**リロードなしで自動更新**され、ショッピングのスムーズさが向上
 
-## 🎬 オンラインデモ
-👉 【ここをクリックして体験】product-page-for-ec.vercel.app
-
 ## 📂 コード構成
 ```bash
  ┣ 📂 css              
@@ -72,6 +72,9 @@ ECプラットフォームにおいて、商品詳細ページのデザインは
 
 👋 Hello, I’m Zheng Qihui, a front-end developer skilled in building efficient and maintainable front-end applications.  
 This project is an e-commerce product detail page I developed independently, showcasing the product with rich features and styles.
+
+## 🎬 Online Demo
+👉 【Click here to experience】http://product-page-for-ec.vercel.app
 
 ## 📌 Project Background & Goals
 On e-commerce platforms, the design of the product detail page directly impacts users' purchasing decisions. Clear product displays, smooth interaction experiences, and convenient price comparison features effectively reduce bounce rates and improve conversion rates.
@@ -113,9 +116,6 @@ I independently completed the requirement analysis, UI design, and front-end dev
 - 🔍 **High-Quality Image Zoom**: When hovering over the product image, the enlarged area appears automatically on the right, **supporting smooth movement for a more natural viewing experience**  
 - 📈 **Dynamic Price Updates**: When users select different parameters, the price area **automatically updates without refresh**, enhancing shopping smoothness
 
-## 🎬 Online Demo
-👉 【Click here to experience】product-page-for-ec.vercel.app
-
 ## 📂 Code Structure
 ```bash
  ┣ 📂 css              
@@ -136,6 +136,9 @@ I independently completed the requirement analysis, UI design, and front-end dev
 
 👋 你好，我是郑绮慧，一名前端开发者，擅长构建高效、可维护的前端应用。
 这个项目是我独立开发的电商商品详情页面，用丰富的功能和样式来展现商品。
+
+## 🎬 线上demo
+👉 【点击这里体验】http:product-page-for-ec.vercel.app
 
 ## 📌 项目背景 & 目标
 在电商平台上，商品详情页面的设计直接影响用户的购买决策。清晰的商品展示、流畅的交互体验以及便捷的价格对比功能，能有效减少跳出率，提高转化率。  
@@ -176,9 +179,6 @@ I independently completed the requirement analysis, UI design, and front-end dev
 
 - 🔍 **高清图片放大**：鼠标移入商品图片时，右侧自动显示放大区域，**支持平滑移动，提供更自然的查看体验**  
 - 📈 **价格动态更新**：用户选择不同参数时，价格区域**无刷新自动更新**，提升购物流畅度       
-
-## 🎬 线上demo
-👉 【点击这里体验】product-page-for-ec.vercel.app
 
 ## 📂 代码结构
 ```bash
