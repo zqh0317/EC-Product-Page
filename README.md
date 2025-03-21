@@ -129,7 +129,7 @@ I independently completed the requirement analysis, UI design, and front-end dev
     ┣ 📜 index.js      # Renders data, handles interaction logic (image zoom, price updates, etc.)
  ┣ 📜 index.html       # Basic page structure  
 ```
-## Contect
+## Contact
 - 🔗 GitHub: https://github.com/zqh0317?tab=repositories
 - 📧 Email: zhengqihui0317@gmail.com
 - 💼 Linkedin: https://www.linkedin.com/in/qihui-zheng-ab2618275/
